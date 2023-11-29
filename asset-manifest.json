@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/trueBuilderss/static/css/main.8a4af32b.css",
+    "main.js": "/trueBuilderss/static/js/main.ecc6aab0.js",
+    "static/js/787.28c6d1b7.chunk.js": "/trueBuilderss/static/js/787.28c6d1b7.chunk.js",
+    "static/media/1403962.jpg": "/trueBuilderss/static/media/1403962.1613dff7a882fea33c51.jpg",
+    "static/media/1404161.jpg": "/trueBuilderss/static/media/1404161.ec42ad1d082fa0b15773.jpg",
+    "static/media/clientss.jpg": "/trueBuilderss/static/media/clientss.a5a840e65a84c6b91465.jpg",
+    "index.html": "/trueBuilderss/index.html",
+    "main.8a4af32b.css.map": "/trueBuilderss/static/css/main.8a4af32b.css.map",
+    "main.ecc6aab0.js.map": "/trueBuilderss/static/js/main.ecc6aab0.js.map",
+    "787.28c6d1b7.chunk.js.map": "/trueBuilderss/static/js/787.28c6d1b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a4af32b.css",
+    "static/js/main.ecc6aab0.js"
+  ]
+}

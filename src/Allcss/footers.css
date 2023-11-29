@@ -1,0 +1,13 @@
+body{
+    font-family: Arial,Helvetica,Georgia;
+}
+@media (max-width: 768px) {
+    .footer{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .F1{
+        min-width: 80%;
+    }
+  }

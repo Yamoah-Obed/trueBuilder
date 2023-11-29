@@ -1,0 +1,14 @@
+body{
+    font-family: Arial,Helvetica,Georgia;
+}
+
+@media  (max-width: 768px) {
+    .abt{
+        flex-direction: column-reverse;
+    }
+
+    .abttxt {
+        min-width: 80%;
+        padding: 20px;
+    }
+}

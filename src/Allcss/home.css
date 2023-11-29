@@ -1,0 +1,81 @@
+body{
+    font-family: Arial,Helvetica,Georgia;
+}
+
+/* Reset some default styles */
+body, h1, h2, p, div, button {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-image: url("../Assets/1403962.jpg"); /* Replace with your actual background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Ensure full viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+/* Style the hometext */
+.hometext {
+    color: white; /* Text color */
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+/* Style the Learn More button */
+.learnmore {
+    padding: 10px 20px;
+    font-size: 1em;
+    text-decoration: none;
+    color: white;
+    background-color: #333; /* Button background color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Hover effect for the Learn More button */
+.learnmore:hover {
+    background-color: #555; /* Darker background color on hover */
+}
+
+.map1{
+    display: flex;
+   justify-content: center;
+}
+
+
+.whatwedo{
+    padding:  50px 0;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.wdcont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .wdtxt {
+    text-align: center;
+    max-width: 800px; 
+  }
+  
+  .wdtxt p {
+    margin: 0; 
+  }
